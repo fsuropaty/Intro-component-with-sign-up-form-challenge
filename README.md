@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor.io](https://your-solution-url.com)
-- Live Site URL: [fsuropaty.github.io](https://your-live-site-url.com)
+- Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-using-tailwind-css-UqDgyzP5rU)
+- Live Site URL: [fsuropaty.github.io](https://fsuropaty.github.io/Intro-component-with-sign-up-form-challenge/)
 
 ## My process
 
