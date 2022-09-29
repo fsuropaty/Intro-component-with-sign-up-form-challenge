@@ -24,7 +24,7 @@
   }
 
   .error-icon {
-    @apply absolute top-0 right-8;
+    @apply absolute bottom-6.5 right-8;
   }
 }
 
