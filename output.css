@@ -568,36 +568,8 @@ body {
   right: 2rem;
 }
 
-.absolute {
-  position: absolute;
-}
-
 .relative {
   position: relative;
-}
-
-.bottom-2 {
-  bottom: 0.5rem;
-}
-
-.left-0 {
-  left: 0px;
-}
-
-.right-0 {
-  right: 0px;
-}
-
-.bottom-8 {
-  bottom: 2rem;
-}
-
-.bottom-4 {
-  bottom: 1rem;
-}
-
-.col-span-1 {
-  grid-column: span 1 / span 1;
 }
 
 .my-12 {
@@ -626,10 +598,6 @@ body {
 
 .mb-4 {
   margin-bottom: 1rem;
-}
-
-.mb-5 {
-  margin-bottom: 1.25rem;
 }
 
 .block {
@@ -693,7 +661,7 @@ body {
 }
 
 .bg-mobile-bg {
-  background-image: url('/images/bg-intro-mobile.png');
+  background-image: url('./images/bg-intro-mobile.png');
 }
 
 .p-8 {
@@ -721,18 +689,6 @@ body {
 
 .pr-4 {
   padding-right: 1rem;
-}
-
-.pt-4 {
-  padding-top: 1rem;
-}
-
-.pb-5 {
-  padding-bottom: 1.25rem;
-}
-
-.pb-4 {
-  padding-bottom: 1rem;
 }
 
 .pb-2 {
@@ -833,7 +789,7 @@ body {
   }
 
   .lg\:bg-desktop-bg {
-    background-image: url('/images/bg-intro-desktop.png');
+    background-image: url('./images/bg-intro-desktop.png');
   }
 
   .lg\:px-40 {
