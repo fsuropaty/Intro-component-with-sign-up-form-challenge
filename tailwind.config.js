@@ -14,8 +14,10 @@ module.exports = {
         display: ["Poppins"],
       },
       backgroundImage: {
-        "mobile-bg": "url('./images/bg-intro-mobile.png')",
-        "desktop-bg": "url('./images/bg-intro-desktop.png')",
+        "mobile-bg":
+          "url('Intro-component-with-sign-up-form-challenge/images/bg-intro-mobile.png')",
+        "desktop-bg":
+          "url('Intro-component-with-sign-up-form-challenge//images/bg-intro-desktop.png')",
       },
       boxShadow: {
         form: "0 8px  hsla(0, 36%, 41%, 40%)",
