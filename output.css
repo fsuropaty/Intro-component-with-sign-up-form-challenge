@@ -661,7 +661,7 @@ body {
 }
 
 .bg-mobile-bg {
-  background-image: url('Intro-component-with-sign-up-form-challenge/images/bg-intro-mobile.png');
+  background-image: url('/images/bg-intro-mobile.png');
 }
 
 .p-8 {
@@ -789,7 +789,7 @@ body {
   }
 
   .lg\:bg-desktop-bg {
-    background-image: url('Intro-component-with-sign-up-form-challenge//images/bg-intro-desktop.png');
+    background-image: url('/images/bg-intro-desktop.png');
   }
 
   .lg\:px-40 {
